@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+onnx
+onnxscript
+onnxruntime
+numpy
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pytest
+ruff
