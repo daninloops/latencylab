@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#LatencyLab
+artifacts/
+*.onnx
+*.engine
+*.plan
+*.db
